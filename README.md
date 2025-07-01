@@ -51,7 +51,7 @@ Explore the interactive dashboards and story presentation built using Tableau:
 - [Dashboard 3](https://public.tableau.com/app/profile/rajesh.112/viz/Dashboard_3_17511989917850/Dashboard3?publish=yes) – Renovation Impact Analysis: Housing Age Groups and Sales Trends
 - [Story]( https://public.tableau.com/app/profile/rajesh.112/viz/Story\_17511991210020/Story1?publish=yes) – End-to-end Tableau story showcasing findings and business insights
 
-📄 View the full project report: [Final Report](Doc%20and%20Demo/Final_Project_Report.pdf)
+📄 View the full project report: [Final Report](Doc and Demo/Final Report.pdf)
 
 ---
 ## 📽 Demo Video
